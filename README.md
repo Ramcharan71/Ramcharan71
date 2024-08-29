@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramcharan Panchakarla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://github.com/rudrabarad/Gifs" alt="coding" align="right" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramcharan71&label=Profile%20views&color=0e75b6&style=flat" alt="ramcharan71" /> </p>
 
